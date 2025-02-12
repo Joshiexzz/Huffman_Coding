@@ -237,4 +237,3 @@ function buildFrequencyMap(text) {
   // Handle file upload
   document.getElementById("fileInput").addEventListener("change", handleFileUpload)
   
-  
